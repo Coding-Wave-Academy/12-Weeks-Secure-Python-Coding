@@ -1,0 +1,5 @@
+sentence = input("Type in a sentence: ")
+word = sentence.split(" ")
+wordCount = len(word)
+# print(word)
+print("Total word count: ",wordCount)
